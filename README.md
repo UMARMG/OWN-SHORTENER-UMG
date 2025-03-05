@@ -11,7 +11,7 @@
 ## **Steps to set up the project at Glitch:**
 
 <p align="center">
-  <a href="https://glitch.com/edit/#!/import/git?url=https://github.com/emirofcordoba/OWN-SHORTENER.git">
+  <a href="https://glitch.com/edit/#!/import/git?url=https://https://github.com/UMARMG/OWN-SHORTENER-UMG.git">
     <img src="https://img.shields.io/badge/Import%20To%20Glitch-Click%20to%20Import-brightgreen?style=for-the-badge" alt="Import to Glitch Button" width="820" />
   </a>
 </p>
