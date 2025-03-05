@@ -1,6 +1,6 @@
 ![UMAR.MG.Shortener Logo](https://github.com/emirofcordoba/OWN-SHORTENER/blob/main/logo.png)
 
-# **This project is made by [t.me/emirofcordoba](https://t.me/FutureUMGbot) alone**
+# **This project is made by [t.me/FUTUREUMARGBOT(https://t.me/FutureUMGbot) alone**
 
 # **UMAR.MG.Shortener**
 
