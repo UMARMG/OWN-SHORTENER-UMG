@@ -1,8 +1,8 @@
 ![UMAR.MGShortener Logo](https://github.com/emirofcordoba/OWN-SHORTENER/blob/main/logo.png)
 
-# **This project is made by [t.me/emirofcordoba](https://t.me/MogaTeam) alone**
+# **This project is made by [t.me/emirofcordoba](https://t.me/FutureUMGbot) alone**
 
-# **MogaShortener**
+# **UMAR.MGaShortener**
 
 ## **This project is in Node.js, and its purpose is to help you create your own link shortener Telegram bot hosted on your custom domain.**
 
