@@ -29,13 +29,13 @@
 ## **Social Contacts**
 
 <p align="center">
-  <a href="https://t.me/emirofcordoba">
+  <a href="https://t.me/FutureUMGbot">
     <img src="https://img.shields.io/badge/CONTACT-TELEGRAM-blue?style=for-the-badge&logo=telegram" alt="Telegram Badge"/>
   </a>
-  <a href="https://instagram.com/emirofcordoba">
+  <a href="https://www.instagram.com/ganaumarmodu?igsh=YzljYTk1ODg3Zg==">
     <img src="https://img.shields.io/badge/CONTACT-INSTAGRAM-red?style=for-the-badge&logo=instagram" alt="Instagram Badge"/>
   </a>
-  <a href="https://www.youtube.com/@highjacker_kidnapper/about">
+  <a href="https://www.youtube.com/@umarmodugana-yo6eg/about">
     <img src="https://img.shields.io/badge/CONTACT-YOUTUBE-red?style=for-the-badge&logo=youtube" alt="Youtube Badge"/>
   </a>
 </p>
